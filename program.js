@@ -1,2 +1,1 @@
-console.log("Befora Changes")
-console.log("After Changes")
+console.log("Hello world")
